@@ -1,0 +1,33 @@
+https://cursos.alura.com.br/formacao-front-end
+https://cursos.alura.com.br/course/arquitetura-css
+
+https://github.com/mahenrique94
+
+Protótipo no Figma:
+https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap
+
+Atalho "Alt + Setas" para mover as linhas para cima ou para baixo, facilitando as alterações.
+
+1 - LAYOUT BASE E ESTILIZAÇÃO DE CABEÇALHO 
+a utilizar seletores CSS mais simples;
+a organizar a estruturar os arquivos css do projeto;
+Metodologia Atomic Design.
+
+2 - ESTILIZAÇÃO DE BANNER E SOBRE
+Um padrão para nomear as classes de CSS;
+Conhecemos a metodologia BEM.
+Usar duplo underline para classes (pai__filho)
+
+3 - ESTILIZAÇÃO DAS RECEITAS
+Organização e estrutura de arquivos .css;
+Separação de responsabilidades;
+a criar e manter arquivos menores.
+
+4 - ESTILIZAÇÃO DO QUEM SOMOS
+Imagens ilustrativas devem estar referenciadas em nossos arquivos .css
+Boas práticas com importação de imagens;
+A manter as estilizações nos arquivos de estilo.
+
+5 - ESTILIZAÇÃO DO RODAPÉ E RESPONSIVIDADE DO SITE
+Tornar um site responsivo;
+Como configurar a adaptação do site a diferentes tamanhos de tela.
